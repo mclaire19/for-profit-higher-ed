@@ -1,0 +1,13 @@
+name: ForProfitEducation
+title: ForProfitEducation
+username:
+account: madeline-pickens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1614614
+bundleId: 2684741
+url: https://madeline-pickens.shinyapps.io/ForProfitEducation/
+when: 1576896673.74133
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store|data/Most-Recent-Cohorts-All-Data-Elements.csv|data/read_full.R
